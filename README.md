@@ -1,2 +1,2 @@
-# Prvi_Testis
+# Prvi_Test(is)
 opis repo-a
